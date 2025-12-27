@@ -70,6 +70,8 @@ This project demonstrates:
 LocalConnect is a complete, polished semester project demonstrating practical
 full-stack development, problem-solving, and algorithmic thinking. It can be extended with features like 
 images, payments, OTP login, and notifications.
+Visuals:
+Detailed screenshots reflecting the execution and functionality of the project are available in the Files section.
 
 
 
